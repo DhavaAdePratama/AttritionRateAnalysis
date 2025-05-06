@@ -48,7 +48,7 @@ Cakupan Proyek meliputi:
 
 Sumber data: https://github.com/dicodingacademy/dicoding_dataset/blob/main/employee/employee_data.csv
 
-Setup environment:
+Setup environment: 
 
 ```
 
@@ -60,7 +60,13 @@ Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga l
 
 ## Conclusion
 
-Jelaskan konklusi dari proyek yang dikerjakan.
+Berdasarkan analisis menggunakan metode RFM (Recency, Frequency, Monetary), ditemukan bahwa tingkat attrition tertinggi berasal dari divisi Research and Development serta Sales. Menariknya, dari segi recency category attrition risk tidak jauh beda dengan yg lain. jika dilihat dari segi frequency sudah mulai nampak suatu perbedaan yg terlihat dimana attrition risk memiliki tingkat paling rendah dalam seberapa lama kerja pada perusahaan ini.kemudian dari segi pendapatan perbulannya category atterition risk juga mendapatkan income paling kecil perbulannya. Hal ini membuka peluang untuk analisis lebih dalam mengenai promosi terakhir serta keloyalan kepada perusahaan.
+
+Dari sisi recency, karyawan yang masuk dalam kategori Attrition Risk cenderung merupakan karyawan yang belum lama bergabung di perusahaan. Selain itu, mereka juga memiliki tingkat penghasilan bulanan yang relatif rendah dibandingkan dengan kategori lainnya.
+
+Meskipun dari sisi frequency (dilihat dari YearsAtCompany), kelompok Attrition Risk sempat menunjukkan kemajuan karier melalui promosi jabatan dalam waktu yang relatif singkat, hal ini tidak diikuti oleh peningkatan pendapatan yang sepadan. Ketidakseimbangan antara promosi jabatan dan kompensasi ini kemungkinan besar menjadi salah satu pemicu utama dari keputusan mereka untuk keluar dari perusahaan.
+
+Dengan demikian, dapat disimpulkan bahwa faktor kompensasi, masa kerja yang masih singkat, serta divisi kerja tertentu memiliki pengaruh besar terhadap kemungkinan karyawan untuk keluar. Ini menjadi masukan penting bagi manajemen SDM untuk merancang strategi retensi karyawan yang lebih efektif.
 
 ### Rekomendasi Action Items (Optional)
 
