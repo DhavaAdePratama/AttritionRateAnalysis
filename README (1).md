@@ -50,6 +50,7 @@ Sumber data: https://github.com/dicodingacademy/dicoding_dataset/blob/main/emplo
 
 Setup environment: 
 Clone repository ini ke komputer lokal yang anda miliki : ``` Git clone https://github.com/DhavaAdePratama/AttritionRateAnalysis ```
+
 Set Up PYTHON sesuai requirements yang ada  : ``` pip install -r requirements.txt ```
 
 ## Business Dashboard
