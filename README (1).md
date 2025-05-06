@@ -56,7 +56,11 @@ Set Up PYTHON sesuai requirements yang ada  : ``` pip install -r requirements.tx
 
 Link Dashboard : https://public.tableau.com/app/profile/dhava.ade.pratama/viz/DS1_17461999051560/Dashboard1?publish=yes
 
+PENJELASAN:
 
+berdasarkan analisis pada dashboard yang telah dibuat, sebagian besar faktor seperti kepuasaan kerja, lingkungan, keterlibatan, serta work-life balance menunjukkan distribusi yang relatif mirip antara karyawan yang bertahan dan yang keluar.
+Namun, terdapat perbedaan yang sangat mencolok pada aspek penghasilan. karyawan yang keluar cenderung memiliki penghasilan yang jauh lebih rendah di bandingkan dengan karyawan yang bertahan.
+Hal ini mengindikasikan bahwa kompensasi menjadi faktor utama dan signifikan dalam keputusan karyawan untuk meninggalkan perusahaan, bahkan lebih dominan dibandingkan faktor faktor lain.
 
 ## Conclusion
 
@@ -70,7 +74,6 @@ Dengan demikian, dapat disimpulkan bahwa faktor kompensasi, masa kerja yang masi
 
 ### Rekomendasi Action Items (Optional)
 
-Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
-
-- action item 1
-- action item 2
+- Meningkatkan gaji karyawanan yang memiliki pendapatan yang lebih rendah dibandingkan dengan karyawan karyawan lain, khusunya kepada karyawan masuk dalam kategori loyal
+- Memberikan uang kompensasi lebih kepada karyawan yang overtime / lembur
+- Memberikan Keringanan bagi karyawan yang memiliki jarak yang jauh dari rumah ke kantor, seperti tambahan ongkos transportasi, dll.
