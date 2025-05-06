@@ -49,14 +49,14 @@ Cakupan Proyek meliputi:
 Sumber data: https://github.com/dicodingacademy/dicoding_dataset/blob/main/employee/employee_data.csv
 
 Setup environment: 
-
-```
-
-```
+Clone repository ini ke komputer lokal yang anda miliki : ``` Git clone https://github.com/DhavaAdePratama/AttritionRateAnalysis ```
+Set Up PYTHON sesuai requirements yang ada  : ``` pip install -r requirements.txt ```
 
 ## Business Dashboard
 
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
+Link Dashboard : https://public.tableau.com/app/profile/dhava.ade.pratama/viz/DS1_17461999051560/Dashboard1?publish=yes
+
+
 
 ## Conclusion
 
