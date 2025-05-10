@@ -35,12 +35,6 @@ Cakupan Proyek meliputi:
 
     - Analisis korelasi antara fitur-fitur penting dan status attrition.
 
-    - RFM Analysis Adaptasi untuk Karyawan
-
-      - Recency: Menggunakan YearsSinceLastPromotion, Frequency: Menggunakan YearsAtCompany, Monetary: Menggunakan MonthlyIncome.
-
-      - Penilaian skor dan segmentasi karyawan berdasarkan tingkat risiko keluar.
-
 4. Dashboard Visualisasi (Tableau)
 
 
@@ -65,16 +59,20 @@ Hal ini mengindikasikan bahwa kompensasi menjadi faktor utama dan signifikan dal
 
 ## Conclusion
 
-Berdasarkan analisis menggunakan metode RFM (Recency, Frequency, Monetary), ditemukan bahwa tingkat attrition tertinggi berasal dari divisi Research and Development serta Sales. Menariknya, dari segi recency category attrition risk tidak jauh beda dengan yg lain. jika dilihat dari segi frequency sudah mulai nampak suatu perbedaan yg terlihat dimana attrition risk memiliki tingkat paling rendah dalam seberapa lama kerja pada perusahaan ini.kemudian dari segi pendapatan perbulannya category atterition risk juga mendapatkan income paling kecil perbulannya. Hal ini membuka peluang untuk analisis lebih dalam mengenai promosi terakhir serta keloyalan kepada perusahaan.
+Berdasarkan hasil analisis data, terlihat bahwa work-life balance antara karyawan yang keluar dan yang tetap bekerja cenderung serupa. Namun, terdapat perbedaan yang lebih jelas terkait jarak rumah ke kantor. Karyawan yang keluar lebih banyak berasal dari kelompok yang memiliki jarak tempuh lebih jauh dibandingkan mereka yang bertahan. Hal ini mengindikasikan bahwa jarak tempat tinggal ke kantor bisa menjadi salah satu faktor penting yang memengaruhi keputusan karyawan untuk meninggalkan perusahaan.
 
-Dari sisi recency, karyawan yang masuk dalam kategori Attrition Risk cenderung merupakan karyawan yang belum lama bergabung di perusahaan. Selain itu, mereka juga memiliki tingkat penghasilan bulanan yang relatif rendah dibandingkan dengan kategori lainnya.
+Dari segi kenyamanan lingkungan kerja dan peran pekerjaan, baik karyawan yang keluar maupun yang bertahan menunjukkan nilai yang hampir serupa. Artinya, faktor lingkungan kerja dan keterlibatan dalam pekerjaan tidak menunjukkan pengaruh signifikan terhadap keputusan untuk keluar dari perusahaan.
 
-Meskipun dari sisi frequency (dilihat dari YearsAtCompany), kelompok Attrition Risk sempat menunjukkan kemajuan karier melalui promosi jabatan dalam waktu yang relatif singkat, hal ini tidak diikuti oleh peningkatan pendapatan yang sepadan. Ketidakseimbangan antara promosi jabatan dan kompensasi ini kemungkinan besar menjadi salah satu pemicu utama dari keputusan mereka untuk keluar dari perusahaan.
+Perbedaan antara karyawan yang keluar dan yang bertahan berdasarkan status lembur (OverTime) juga tidak terlalu mencolok. Jumlah karyawan yang keluar meskipun sering lembur hampir sebanding dengan mereka yang keluar meskipun tidak lembur. Ini menunjukkan bahwa OverTime bukanlah satu-satunya faktor utama yang memengaruhi tingkat attrition.
 
-Dengan demikian, dapat disimpulkan bahwa faktor kompensasi, masa kerja yang masih singkat, serta divisi kerja tertentu memiliki pengaruh besar terhadap kemungkinan karyawan untuk keluar. Ini menjadi masukan penting bagi manajemen SDM untuk merancang strategi retensi karyawan yang lebih efektif.
+Ketika dilihat berdasarkan status pernikahan, mayoritas karyawan yang keluar berasal dari kelompok yang belum menikah. Karyawan single tampaknya lebih cenderung untuk berpindah kerja dibandingkan mereka yang sudah menikah, yang mungkin memiliki pertimbangan lebih kompleks terkait stabilitas pekerjaan.
+
+Temuan menarik lainnya adalah bahwa banyak dari karyawan yang keluar justru merupakan individu yang mengalami promosi lebih cepat. Namun, mereka memiliki tingkat gaji yang relatif lebih rendah dibandingkan dengan karyawan yang bertahan. Hal ini menunjukkan adanya ketidakseimbangan antara peningkatan tanggung jawab dan kompensasi yang diberikan, yang bisa menjadi alasan utama di balik keputusan untuk keluar dari perusahaan.
+
+Secara keseluruhan, meskipun terdapat beberapa faktor yang memengaruhi keputusan karyawan untuk keluar, faktor-faktor seperti jarak tempuh ke kantor, serta kompensasi yang tidak sebanding dengan promosi menjadi elemen yang paling jelas berperan dalam menentukan tingkat attrition di perusahaan ini.
 
 ### Rekomendasi Action Items (Optional)
 
-- Meningkatkan gaji karyawanan yang memiliki pendapatan yang lebih rendah dibandingkan dengan karyawan karyawan lain, khusunya kepada karyawan masuk dalam kategori loyal
+- Menyeimbangkan kompensasi antara beban yang diberikan kepada karyawan dengan gaji yang diterima oleh karyawan
 - Memberikan uang kompensasi lebih kepada karyawan yang overtime / lembur
 - Memberikan Keringanan bagi karyawan yang memiliki jarak yang jauh dari rumah ke kantor, seperti tambahan ongkos transportasi, dll.
