@@ -49,7 +49,7 @@ Set Up PYTHON sesuai requirements yang ada  : ``` pip install -r requirements.tx
 
 ## Business Dashboard
 
-Link Dashboard : https://public.tableau.com/app/profile/dhava.ade.pratama/viz/DS1_17461999051560/Dashboard1?publish=yes
+Link Dashboard : https://public.tableau.com/app/profile/dhava.ade.pratama/viz/DASHBOARD_17468711608590/Dashboard1?publish=yes
 
 PENJELASAN:
 
