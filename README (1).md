@@ -69,7 +69,7 @@ Temuan menarik lainnya adalah bahwa banyak dari karyawan yang keluar justru meru
 
 Secara keseluruhan, meskipun terdapat beberapa faktor yang memengaruhi keputusan karyawan untuk keluar, faktor-faktor seperti jarak tempuh ke kantor, serta kompensasi yang tidak sebanding dengan promosi menjadi elemen yang paling jelas berperan dalam menentukan tingkat attrition di perusahaan ini.
 
-### Rekomendasi Action Items (Optional)
+### Rekomendasi Action Items
 
 - Menyeimbangkan kompensasi antara beban yang diberikan kepada karyawan dengan gaji yang diterima oleh karyawan
 - Memberikan uang kompensasi lebih kepada karyawan yang overtime / lembur
