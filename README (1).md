@@ -49,8 +49,6 @@ Set Up PYTHON sesuai requirements yang ada  : ``` pip install -r requirements.tx
 
 ## Business Dashboard
 
-Link Dashboard : https://public.tableau.com/app/profile/dhava.ade.pratama/viz/DASHBOARD_17468711608590/Dashboard1?publish=yes
-
 PENJELASAN:
 
 berdasarkan analisis pada dashboard yang telah dibuat, sebagian besar faktor seperti kepuasaan kerja, lingkungan, keterlibatan, serta work-life balance menunjukkan distribusi yang relatif mirip antara karyawan yang bertahan dan yang keluar.
